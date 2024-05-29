@@ -10,7 +10,7 @@ const phoneBook = {
     "Jim Smith": 111111111
   };
   
-  console.log(phoneBook); // { John: 123456789, 'Jane Doe': 987654321, 'Jim Smith': 111111111 }
+console.log(phoneBook); // { John: 123456789, 'Jane Doe': 987654321, 'Jim Smith': 111111111 }
 
 
 // Чтобы получить доступ к записи в телефонной книге, можно использовать нотацию квадратных скобок или нотацию точки:

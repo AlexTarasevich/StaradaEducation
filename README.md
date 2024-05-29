@@ -11,3 +11,4 @@ Progress in learning frontend at Strada school
 6. function_lesson_11 и switch_lesson_12 - задачи из блока про функции
 7. lesson_06 - циклы while, for
 8. lesson_07 - Объеты их свойства и методы
+9. lesson_08 - Объекты, оператор in, цикл for .. in

@@ -12,3 +12,4 @@ Progress in learning frontend at Strada school
 7. lesson_06 - циклы while, for
 8. lesson_07 - Объеты их свойства и методы
 9. lesson_08 - Объекты, оператор in, цикл for .. in
+10. lesson_09 - Работа с объектами, копирование их

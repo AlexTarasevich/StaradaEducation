@@ -10,7 +10,7 @@ function verticalView(str) {
       for (let char of line) {
         console.log(char);
       }
-      console.log();
+    
     });
   }
 

@@ -22,4 +22,8 @@ Progress in learning frontend at Strada school
     array - задача по массивам
 14. lesson_13 - Методы массивов
     array_practice_2 - задачи по массивам
+15. lesson_14 - замыкания
+    counter_practice - задачки по замыканиям
+    time_practice_2 - задачки с таймером
+17. lesson_15 - Навигация и поиск элементов в DOM
     
